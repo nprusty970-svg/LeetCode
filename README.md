@@ -35,13 +35,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/nprusty970-svg/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/nprusty970-svg/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/nprusty970-svg/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/nprusty970-svg/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/nprusty970-svg/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/nprusty970-svg/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
